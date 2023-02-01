@@ -1,3 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
 .heading {
     color: red;
 }
@@ -5,4 +10,20 @@
 paris-paragraph{
 
     color: beige;
+}
+
+#london-heading{
+
+    color: pink;
+}
+
+span {
+    padding: 0 5px
+    border-top: 2px black solid:
+    border-bottom: 2px 
+}
+
+.para-with-span: {
+    margin: 5px
+    border: 10px lightgreen ;
 }
